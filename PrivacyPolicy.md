@@ -3,7 +3,7 @@
 
 **Last updated:** September 30, 2025
 
-GeneralTechServices built the GeneralTech app as a buisiness app. This service is provided by GeneralTech and is intended for use as is.
+GeneralTechServices L.L.C built the GeneralTech app as a buisiness app. This service is provided by GeneralTechServices L.L.C and is intended for use as is.
 
 GeneralTech helps you stay in control of your calibration needs. Designed for engineers, technicians, and quality managers, the app provides quick and secure access to your calibration data anytime, anywhere. Whether you are managing a fleet of instruments or overseeing individual assets, the app ensures you always have the right information at your fingertips.
 
